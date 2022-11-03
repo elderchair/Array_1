@@ -8,6 +8,7 @@ public class Main {
         MobilePhone cont = new MobilePhone();
         cont.AddContact(kevin);
         cont.PrintContacts();
+        System.out.println("Print Kevin is cool");
 
     }
 }
